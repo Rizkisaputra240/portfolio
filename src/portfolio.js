@@ -418,7 +418,7 @@ const blogSection = {
 const resumeSection = {
   title: "CV / Resume",
   subtitle: "Silakan unduh CV resmi saya di sini",
-  link: "/CV-Rizki-Update.pdf", // Sesuaikan dengan nama file PDF yang Anda simpan di folder public
+  link: "/CVDWIE.pdf", // Sesuaikan dengan nama file PDF yang Anda simpan di folder public
   display: true // Set true untuk menampilkan bagian ini
 };
 
