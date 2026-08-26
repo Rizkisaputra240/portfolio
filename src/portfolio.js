@@ -295,7 +295,7 @@ const bigProjects = {
       image: require("./assets/images/web pengaduan masyarakat.png"),
       projectName: "Sistem Pengaduan Masyarakat Berbasis Web",
       projectDesc:
-        "Merancang dan membangun Sistem Informasi Pengaduan Masyarakat berbasis web menggunakan PHP dan MySQL untuk memfasilitasi pelaporan dan pengelolaan aspirasi publik. Sistem ini menerapkan fitur hak akses multi-role (Admin, Petugas, dan Masyarakat) dengan antarmuka responsif berbasis Materialize CSS dan DataTables.",
+        "Berkolaborasi dalam merancang dan membangun Sistem Informasi Pengaduan Masyarakat berbasis web menggunakan PHP dan MySQL untuk memfasilitasi pelaporan dan pengelolaan aspirasi publik. Sistem ini menerapkan fitur hak akses multi-role (Admin, Petugas, dan Masyarakat) dengan antarmuka responsif berbasis Materialize CSS dan DataTables.",
       footerLink: [
         {
           name: "Kunjungi",
