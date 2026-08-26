@@ -245,7 +245,7 @@ const bigProjects = {
       image: require("./assets/images/Hoodie Dwie.jpg"),
       projectName: "Sistem Hoodie Dwie Website E-Commerce",
       projectDesc:
-        "Membangun prototype website e-commerce penjualan produk fashion dan hoodie menggunakan HTML, CSS, dan JavaScript. Dilengkapi fitur katalog produk, keranjang belanja, simulasi checkout pembayaran, serta halaman informasi lengkap.",
+        "Merancang dan membuat website e-commerce penjualan produk fashion dan hoodie menggunakan HTML, CSS, dan JavaScript. Dilengkapi fitur katalog produk, keranjang belanja, simulasi checkout pembayaran, serta halaman informasi lengkap.",
       footerLink: [
         {
           name: "Kunjungi",
@@ -258,7 +258,7 @@ const bigProjects = {
       image: require("./assets/images/Sistem Manajemen Mahasiswa Magang.png"),
       projectName: "Sistem Manajemen Mahasiswa Magang",
       projectDesc:
-        "Merancang dan mengembangkan Sistem Informasi Manajemen (SIMA) berbasis web selama masa magang di Badan Pusat Statistik (BPS) Kota Surakarta. Sistem ini dibangun untuk mendigitalkan dan mengoptimalkan pengelolaan data mahasiswa magang secara terstruktur menggunakan PHP dan MySQL.",
+        "Merancang dan membangun Sistem Informasi Manajemen (SIMA) berbasis web selama masa magang di Badan Pusat Statistik (BPS) Kota Surakarta. Sistem ini dibangun untuk mendigitalkan dan mengoptimalkan pengelolaan data mahasiswa magang secara terstruktur menggunakan PHP dan MySQL.",
       footerLink: [
         {
           name: "Kunjungi",
@@ -270,7 +270,7 @@ const bigProjects = {
       image: require("./assets/images/Poli KIA.png"),
       projectName: "Sistem Informasi Pelayanan Poli KIA Berbasis Web",
       projectDesc:
-        "Mengembangkan Sistem Informasi Pelayanan Poli KIA berbasis web menggunakan PHP dan MySQL. Sistem ini dirancang untuk mengelola data ibu hamil, pendaftaran, rekam medis pemeriksaan, jadwal kontrol, serta laporan pelayanan dengan fitur hak akses (multi-role) untuk Bidan, Dokter, dan Pasien.",
+        "Merancang dan membangun Sistem Informasi Pelayanan Poli KIA berbasis web menggunakan PHP dan MySQL. Sistem ini dirancang untuk mengelola data ibu hamil, pendaftaran, rekam medis pemeriksaan, jadwal kontrol, serta laporan pelayanan dengan fitur hak akses (multi-role) untuk Bidan, Dokter, dan Pasien.",
       footerLink: [
         {
           name: "Kunjungi",
@@ -283,7 +283,7 @@ const bigProjects = {
       projectName:
         "Sistem Informasi Perizinan Keluar-Masuk Karyawan Berbasis Web",
       projectDesc:
-        "Mengembangkan Sistem Informasi Perizinan Keluar-Masuk Karyawan berbasis web untuk Badan Pusat Statistik (BPS) Kota Surakarta menggunakan PHP dan MySQL. Sistem ini dirancang untuk mencatat dan memantau izin karyawan saat jam kerja, lengkap dengan fitur pengajuan izin, lampiran, riwayat, serta pembagian hak akses (multi-role) antara Karyawan dan Admin.",
+        "Merancang dan membangun Sistem Informasi Perizinan Keluar-Masuk Karyawan berbasis web untuk Badan Pusat Statistik (BPS) Kota Surakarta menggunakan PHP dan MySQL. Sistem ini dirancang untuk mencatat dan memantau izin karyawan saat jam kerja, lengkap dengan fitur pengajuan izin, lampiran, riwayat, serta pembagian hak akses (multi-role) antara Karyawan dan Admin.",
       footerLink: [
         {
           name: "Kunjungi",
@@ -295,7 +295,7 @@ const bigProjects = {
       image: require("./assets/images/web pengaduan masyarakat.png"),
       projectName: "Sistem Pengaduan Masyarakat Berbasis Web",
       projectDesc:
-        "Mengembangkan Sistem Informasi Pengaduan Masyarakat berbasis web menggunakan PHP dan MySQL untuk memfasilitasi pelaporan dan pengelolaan aspirasi publik. Sistem ini menerapkan fitur hak akses multi-role (Admin, Petugas, dan Masyarakat) dengan antarmuka responsif berbasis Materialize CSS dan DataTables.",
+        "Merancang dan membangun Sistem Informasi Pengaduan Masyarakat berbasis web menggunakan PHP dan MySQL untuk memfasilitasi pelaporan dan pengelolaan aspirasi publik. Sistem ini menerapkan fitur hak akses multi-role (Admin, Petugas, dan Masyarakat) dengan antarmuka responsif berbasis Materialize CSS dan DataTables.",
       footerLink: [
         {
           name: "Kunjungi",
@@ -307,7 +307,7 @@ const bigProjects = {
       image: require("./assets/images/Informasi Beasiswa.png"),
       projectName: "Aplikasi Informasi Beasiswa",
       projectDesc:
-        "Mengembangkan aplikasi mobile berbasis Flutter yang terintegrasi dengan Firebase untuk pendaftaran dan pengelolaan informasi beasiswa. Fitur mencakup autentikasi pengguna, profil, daftar beasiswa, serta riwayat pendaftaran secara real-time.",
+        "Berkolaborasi dalam merancang aplikasi mobile berbasis Flutter yang terintegrasi dengan Firebase untuk pendaftaran dan pengelolaan informasi beasiswa. Fitur mencakup autentikasi pengguna, profil, daftar beasiswa, serta riwayat pendaftaran secara real-time.",
       footerLink: [
         {
           name: "Kunjungi",
@@ -320,11 +320,11 @@ const bigProjects = {
       image: require("./assets/images/pengaduan masyarakat.png"),
       projectName: "Aplikasi Sistem Informasi Pengaduan Masyarakat Berbasis",
       projectDesc:
-        "Merancang dan membangun aplikasi layanan pengaduan masyarakat secara full-stack untuk memfasilitasi pelaporan warga dan monitoring status laporan secara transparan. Mengimplementasikan antarmuka responsif, manajemen basis data, validasi formulir input, dan alur pemrosesan laporan.",
+        "Berkolaborasi dalam merancang aplikasi layanan pengaduan masyarakat secara full-stack untuk memfasilitasi pelaporan warga dan monitoring status laporan secara transparan. Mengimplementasikan antarmuka responsif, manajemen basis data, validasi formulir input, dan alur pemrosesan laporan.",
       footerLink: [
         {
           name: "Kunjungi",
-          url: "https://github.com/Rizkisaputra240/Sistem-Informasi-Pengaduan-Masyarakat-Berbasis-Web.git"
+          url: "https://github.com/Rizkisaputra240/Sistem-Informasi-Pengaduan-Masyarakat-Berbasis-Aplikasi.git"
         }
       ]
     },
@@ -332,7 +332,7 @@ const bigProjects = {
       image: require("./assets/images/Restaurant POS System.png"),
       projectName: "Aplikasi Restaurant POS System – VB.NET & MySQL",
       projectDesc:
-        "Mengembangkan aplikasi kasir restoran berbasis desktop menggunakan VB.NET Windows Forms dan MySQL. Sistem dilengkapi fitur manajemen menu, data member dengan diskon khusus, pemrosesan transaksi penjualan secara lengkap, serta pencetakan laporan otomatis menggunakan Microsoft ReportViewer.",
+        "Berkolaborasi dalam merancang dan membangun aplikasi kasir restoran berbasis desktop menggunakan VB.NET Windows Forms dan MySQL. Sistem dilengkapi fitur manajemen menu, data member dengan diskon khusus, pemrosesan transaksi penjualan secara lengkap, serta pencetakan laporan otomatis menggunakan Microsoft ReportViewer.",
       footerLink: [
         {
           name: "Kunjungi",
@@ -356,7 +356,7 @@ const bigProjects = {
       image: require("./assets/images/bps.png"),
       projectName: "Klasifikasi Kualitas Logbook Magang BPS",
       projectDesc:
-        "Mengembangkan model Machine Learning untuk mengklasifikasikan kualitas logbook magang BPS menggunakan algoritma Multinomial Naive Bayes (Python & Google Colab). Berhasil mencapai tingkat akurasi tinggi sebesar 90,16% dari 2.134 data teks dengan tahapan preprocessing lengkap dan ekstraksi fitur TF-IDF.",
+        "Membangun model Machine Learning untuk mengklasifikasikan kualitas logbook magang BPS menggunakan algoritma Multinomial Naive Bayes (Python & Google Colab). Berhasil mencapai tingkat akurasi tinggi sebesar 90,16% dari 2.134 data teks dengan tahapan preprocessing lengkap dan ekstraksi fitur TF-IDF.",
       footerLink: [
         {
           name: "Kunjungi",
