@@ -397,7 +397,7 @@ const achievementSection = {
         "Solo Techno On Ramadhan 2.0 (Solo Technopark)",
       subtitle:
         "Diterbitkan oleh Solo Techno Incubator (Solo Technopark) atas partisipasi intensif dalam materi Digital Foundation, Cyber Security, AI Framework, hingga AI Automation Hackathon.",
-      image: require("./assets/images/sertif solo.jpg"),
+      image: require("./assets/images/sertif solo.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -411,7 +411,7 @@ const achievementSection = {
         "International Guest Lecture: Machine Learning",
       subtitle:
         "Diselenggarakan oleh Universitas Sebelas Maret (UNS) bersama pemateri dari Khalifa University UAE, membahas fondasi matematika Aljabar Linear dalam pembentukan pola dan pemodelan Machine Learning",
-      image: require("./assets/images/Sertifikat Kuliah Tamu.jpg"),
+      image: require("./assets/images/Sertifikat Kuliah Tamu.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -425,7 +425,7 @@ const achievementSection = {
         "AI for Web Programming: Building Interface",
       subtitle:
         "Diselenggarakan oleh HMPTI Universitas Duta Bangsa Surakarta, membahas integrasi dan pemanfaatan pemrograman AI dalam membangun antarmuka web modern",
-      image: require("./assets/images/Webinar AI for Web Programming.jpg"),
+      image: require("./assets/images/Webinar AI for Web Programming.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -439,7 +439,7 @@ const achievementSection = {
         "AI Untuk Programmer: Rapid Coding",
       subtitle:
         "Diselenggarakan oleh Fakultas Ilmu Komputer UDB, mempelajari efisiensi penulisan dan optimasi kode program menggunakan teknologi kecerdasan buatan.",
-      image: require("./assets/images/AI Untuk Programmer Rapid Coding.jpg"),
+      image: require("./assets/images/AI Untuk Programmer Rapid Coding.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
