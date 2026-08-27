@@ -23,7 +23,7 @@ const greeting = {
   username: "DWI",
   title: "Hii !!!, DWI ANANDA RIZKI SAPUTRA",
   subTitle: emoji(
-    "Saya adalah seorang Full Stack Developer 🚀 yang tertarik mengembangkan aplikasi web yang fungsional dan mudah digunakan menggunakan PHP, MySQL, JavaScript, HTML, dan CSS. Saya juga memiliki pengalaman menggunakan Python, Machine Learning, dan Natural Language Processing (NLP) untuk pengolahan serta klasifikasi data."
+    "Saya adalah seorang Full Stack Developer 🚀 yang fokus mengembangkan aplikasi web fungsional dan user-friendly menggunakan PHP, MySQL, JavaScript, HTML, dan CSS. Saya juga memiliki pengalaman dalam pengolahan serta klasifikasi data memanfaatkan Python, Machine Learning, dan Natural Language Processing (NLP). Terbiasa bekerja secara sistematis, adaptif, dan berorientasi pada ketelitian standar sistem. Saat ini, saya terbuka untuk peluang proyek freelance, program magang, maupun posisi Full-Stack Developer / Software Engineer"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -200,11 +200,12 @@ const workExperiences = {
       company: "Badan Pusat Statistik Kota Surakarta",
       companylogo: require("./assets/images/BPSLOGO.png"),
       date: "Agustus 2025 – Desember 2025",
-      desc: "Melaksanakan kegiatan entri, pengecekan, dan pengolahan data untuk mendukung kegiatan operasional BPS Kota Surakarta. Selain itu, mengembangkan sistem informasi berbasis web menggunakan PHP dan MySQL untuk membantu kebutuhan internal serta mendukung pekerjaan administrasi digital.",
+      desc: "Menjalankan peran teknis dan operasional TI selama masa magang: • Pengembangan Sistem: Merancang dan membangun aplikasi sistem informasi manajemen berbasis web (SIMA) untuk digitalisasi alur kerja data instansi. • Entri & Manajemen Data: Menginput, memverifikasi, dan mengelola basis data operasional secara terstruktur dan akurat. • Desain Visual: Merancang materi grafis dan aset visual untuk kebutuhan informasi serta dokumentasi instansi.",
       descBullets: [
-        "Melakukan entri, pengecekan, dan pengolahan data.",
-        "Mengembangkan sistem informasi berbasis web menggunakan PHP dan MySQL.",
-        "Membantu pekerjaan administrasi digital dan pengelolaan data menggunakan Microsoft Excel."
+        "Full-Stack Development",
+        "Data Entry",
+        "Database Management",
+        "Graphic Design",
       ]
     }
     /*
@@ -245,7 +246,7 @@ const bigProjects = {
       image: require("./assets/images/Hoodie Dwie.jpg"),
       projectName: "Sistem Hoodie Dwie Website E-Commerce",
       projectDesc:
-        "Merancang dan membuat website e-commerce penjualan produk fashion dan hoodie menggunakan HTML, CSS, dan JavaScript. Dilengkapi fitur katalog produk, keranjang belanja, simulasi checkout pembayaran, serta halaman informasi lengkap.",
+        "Merancang dan membangun website e-commerce penjualan produk fashion dan hoodie menggunakan HTML, CSS, dan JavaScript. Dilengkapi fitur katalog produk, keranjang belanja, simulasi checkout pembayaran, serta halaman informasi lengkap.",
       footerLink: [
         {
           name: "Kunjungi",
@@ -390,7 +391,63 @@ const achievementSection = {
           url: "#"
         }
       ]
-    }
+    },
+    {
+      title:
+        "Solo Techno On Ramadhan 2.0 (Solo Technopark)",
+      subtitle:
+        "Diterbitkan oleh Solo Techno Incubator (Solo Technopark) atas partisipasi intensif dalam materi Digital Foundation, Cyber Security, AI Framework, hingga AI Automation Hackathon.",
+      image: require("./assets/images/sertif solo.jpg"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Credential ID: 139/STP/Trn.STOR-2.0/03/2026",
+          url: "#"
+        }
+      ]
+    },
+    {
+      title:
+        "International Guest Lecture: Machine Learning",
+      subtitle:
+        "Diselenggarakan oleh Universitas Sebelas Maret (UNS) bersama pemateri dari Khalifa University UAE, membahas fondasi matematika Aljabar Linear dalam pembentukan pola dan pemodelan Machine Learning",
+      image: require("./assets/images/Sertifikat Kuliah Tamu.jpg"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Credential ID: 120.1/UN27.09.3.1/PK.01.03/2024",
+          url: "#"
+        }
+      ]
+    },
+    {
+      title:
+        "AI for Web Programming: Building Interface",
+      subtitle:
+        "Diselenggarakan oleh HMPTI Universitas Duta Bangsa Surakarta, membahas integrasi dan pemanfaatan pemrograman AI dalam membangun antarmuka web modern",
+      image: require("./assets/images/Webinar AI for Web Programming.jpg"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Credential ID: HMPTI168317891799577",
+          url: "#"
+        }
+      ]
+    },
+    {
+      title:
+        "AI Untuk Programmer: Rapid Coding",
+      subtitle:
+        "Diselenggarakan oleh Fakultas Ilmu Komputer UDB, mempelajari efisiensi penulisan dan optimasi kode program menggunakan teknologi kecerdasan buatan.",
+      image: require("./assets/images/AI Untuk Programmer Rapid Coding.jpg"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Credential ID: 723/UDB.D1/A.36-KM/VI/2025",
+          url: "#"
+        }
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };

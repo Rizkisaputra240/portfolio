@@ -99,23 +99,19 @@ export default function StartupProject() {
 
           {/* Tombol Show More / Show Less */}
           {bigProjects.projects.length > 3 && (
-            <div style={{textAlign: "center", marginTop: "40px"}}>
+            <div
+              style={{
+                display: "flex",
+                justifyContent: "center",
+                marginTop: "2.5rem"
+              }}
+            >
               <button
+                className="main-button"
                 onClick={() => setShowAll(!showAll)}
-                style={{
-                  backgroundColor: "#4f46e5",
-                  color: "white",
-                  padding: "12px 28px",
-                  fontSize: "16px",
-                  border: "none",
-                  borderRadius: "6px",
-                  cursor: "pointer",
-                  fontWeight: "600",
-                  boxShadow: "0 4px 12px rgba(0,0,0,0.15)",
-                  transition: "all 0.3s ease"
-                }}
+                style={{cursor: "pointer", border: "none"}}
               >
-                {showAll ? "Tampilkan Lebih Sedikit" : "Tampilkan Semua Proyek"}
+                {showAll ? "TAMPILKAN LEBIH SEDIKIT" : "TAMPILKAN SEMUA PROYEK"}
               </button>
             </div>
           )}
